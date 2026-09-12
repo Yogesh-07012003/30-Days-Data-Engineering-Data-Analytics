@@ -1,0 +1,23 @@
+    # Create report
+    report = f"""
+===== Employee CSV Analyzer =====
+
+Average Salary: ₹{average_salary:.2f}
+
+Highest Salary: ₹{highest_salary}
+Highest Paid Employee: {highest_employee['name']}
+
+Department Count:
+"""
+
+    for department, count in department_count.items():
+        report += f"{department}: {count}\n"
+
+    # Print report
+    print(report)
+
+    # Write report to text file
+    with open("employee_report.txt", "w") as file:
+        file.write(report)
+
+    print("Report saved successfully!")
