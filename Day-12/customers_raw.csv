@@ -1,0 +1,13 @@
+
+customer_id,name,email,city,age,phone
+101,Arun Kumar,arun@gmail.com,Chennai,25,9876543210
+102,Priya S,priya@gmail.com,Coimbatore,28,9876543211
+103,Karthik R,,Trichy,30,9876543212
+104,Divya M,divya@gmail.com,Madurai,,9876543213
+105,Rahul P,rahul@gmail.com,Chennai,27,
+106,Sneha K,sneha@gmail.com,Chennai,26,9876543215
+106,Sneha K,sneha@gmail.com,Chennai,26,9876543215
+107,Vijay S,vijay@gmail.com,Bangalore,29,9876543216
+108,Anitha R,anitha@gmail.com,Chennai,31,9876543217
+109,Suresh B,suresh@gmail.com,Coimbatore,abc,9876543218
+110,Meena V,meena@gmail.com,Trichy,32,9876543219
