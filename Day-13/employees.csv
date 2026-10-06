@@ -1,0 +1,11 @@
+employee_id,name,department,city,salary,experience
+101,Arun,Data Engineering,Chennai,55000,2
+102,Priya,Data Analytics,Coimbatore,48000,1
+103,Karthik,Data Engineering,Trichy,62000,3
+104,Divya,HR,Madurai,42000,2
+105,Rahul,Data Analytics,Chennai,50000,2
+106,Sneha,Data Engineering,Chennai,68000,4
+107,Vijay,Finance,Bangalore,58000,3
+108,Anitha,Data Analytics,Chennai,52000,2
+109,Suresh,Finance,Coimbatore,60000,4
+110,Meena,Data Engineering,Trichy,65000,3
