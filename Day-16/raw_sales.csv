@@ -1,0 +1,11 @@
+order_id,order_date,customer,product,quantity,unit_price
+101,2026-10-01,Arun,Laptop,2,50000
+102,2026-10-02,Priya,Mouse,5,700
+103,2026-10-03,Ravi,Keyboard,3,1500
+104,2026-10-04,Divya,Monitor,2,12000
+105,2026-10-05,Kumar,Chair,4,3500
+106,2026-10-06,Meena,Laptop,1,50000
+107,2026-10-07,Arun,Mouse,,700
+108,2026-10-08,Priya,Keyboard,2,1500
+108,2026-10-08,Priya,Keyboard,2,1500
+109,2026-10-09,Ravi,Monitor,3,12000
